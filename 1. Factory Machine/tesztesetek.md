@@ -42,36 +42,60 @@
 
 ## Teszteset 5
 ### Input
+`6 30`
 
+`1 1 1 2 2 2`
 
 ### Output
+`7`
+
 
 ## Teszteset 6
 ### Input
+`2 50`
 
+`10 15`
 
 ### Output
+`300`
+
 
 ## Teszteset 7
 ### Input
+`10 100`
 
+`1 2 3 4 5 6 7 8 9 10`
 
 ### Output
+`36`
+
 
 ## Teszteset 8
 ### Input
+`3 1000`
 
+`50 100 200`
 
 ### Output
+`28600`
+
 
 ## Teszteset 9
 ### Input
+`5 500`
 
+`25 50 75 100 125`
 
 ### Output
+`5500`
+
 
 ## Teszteset 10
 ### Input
+`2 1000000`
 
+`1 1000`
 
 ### Output
+`999001`
+
