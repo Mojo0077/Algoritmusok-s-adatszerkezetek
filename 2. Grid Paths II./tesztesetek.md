@@ -2,12 +2,12 @@
 
 ## Teszteset 1
 ### Input
-`2
-..
-..`
+`2`
+`..`
+`..`
 
 ### Output
-``
+`2`
 ## Teszteset 2
 ### Input
 
