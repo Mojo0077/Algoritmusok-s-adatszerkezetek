@@ -3,9 +3,7 @@
 ## Teszteset 1
 ### Input
 `2
-
 ..
-
 ..`
 
 ### Output
