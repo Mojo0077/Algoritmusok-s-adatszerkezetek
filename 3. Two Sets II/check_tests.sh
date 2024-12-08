@@ -16,7 +16,7 @@ for input_file in $INPUT_DIR/*.in; do
     previous_output_file="$OUTPUT_DIR/$base_name.out"
 
     # PHP program futtatása
-    php grid_paths_II.php "$input_file" "$output_file"
+    php two_sets_II.php "$input_file" "$output_file"
 
     # Eredmények ellenőrzése
     if diff -q "$output_file" "$previous_output_file" > /dev/null; then
