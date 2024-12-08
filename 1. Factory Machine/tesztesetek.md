@@ -2,12 +2,12 @@
 
 ## Teszteset 1
 ### Input
-Gépek sám Legyártndó termékek szám `3 7`
+Gépek száma Legyártandó termékek szám `3 7`
 
-Gépek gyártási ideje (sec/db) `3 2 5`
+Gépek teljesítménye (időegység/db) `3 2 5`
 
 ### Output
-`8`
+Szükséges minimális idő `8`
 
 
 ## Teszteset 2
