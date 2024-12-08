@@ -2,9 +2,9 @@
 
 ## Teszteset 1
 ### Input
-`3 7`
+Gépek sám Legyártndó termékek szám `3 7`
 
-`3 2 5`
+Gépek gyártási ideje (sec/db) `3 2 5`
 
 ### Output
 `8`
