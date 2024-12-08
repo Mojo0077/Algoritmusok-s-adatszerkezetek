@@ -2,12 +2,12 @@
 
 ## Teszteset 1
 ### Input
-```plaintext
-4
-....
-.*..
-...*
-*...
+`2`
+
+`..`
+
+`..`
+
 ### Output
 `2`
 ## Teszteset 2
