@@ -1,6 +1,6 @@
 # Two Sets II - Tesztelési Útmutató
 
-Ez a dokumentum bemutatja, hogyan tesztelheted a Grid Paths II feladatot a tesztesetek segítségével.
+Ez a dokumentum bemutatja, hogyan tesztelheted a Two Sets II feladatot a tesztesetek segítségével.
 
 ## Lépések
 
