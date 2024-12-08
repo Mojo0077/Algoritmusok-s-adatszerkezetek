@@ -12,9 +12,13 @@
 
 ## Teszteset 2
 ### Input
+`4 10`
 
+`2 3 5 7`
 
 ### Output
+`10`
+
 
 ## Teszteset 3
 ### Input
