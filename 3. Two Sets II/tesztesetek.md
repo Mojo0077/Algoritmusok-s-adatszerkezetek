@@ -2,9 +2,9 @@
 
 ## Teszteset 1
 ### Input
-`3`
+Szám `3`
 ### Output
-`1`
+Részhalmaz kombinációk száma `1`
 ## Teszteset 2
 ### Input
 `9`
