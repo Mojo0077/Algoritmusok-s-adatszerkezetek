@@ -14,10 +14,10 @@ Használd az alábbi parancsot, hogy belépj a megfelelő mappába:
 
 ### 3. Tedd futtathatóvá a scriptet:
 
-chmod +x check_tests.sh
+`chmod +x check_tests.sh`
 
 ### 4. Futtasd a scriptet:
 
-./check_tests.
+`./check_tests.`
 
 A script kiírja minden teszteset eredményét (PASS vagy FAIL), és megmutatja az eltéréseket, ha vannak.
