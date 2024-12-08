@@ -4,13 +4,13 @@
 ### Input
 Bolygók száma Lekérdezések szám `5 3`
 
-`2 3 4 5 1`
+Teleport irányok `2 3 4 5 1`
 
-`1 2`
+Induló bolygó Ugrások száma `1 2`
 
-`3 10`
+Induló bolygó Ugrások száma `3 10`
 
-`4 1`
+Induló bolygó Ugrások száma `4 1`
 
 ### Output
 `3`
