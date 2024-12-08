@@ -22,15 +22,23 @@
 
 ## Teszteset 3
 ### Input
+`5 20`
 
+`1 2 3 4 5`
 
 ### Output
+`10`
+
 
 ## Teszteset 4
 ### Input
+`3 15`
 
+`5 10 20`
 
 ### Output
+`45`
+
 
 ## Teszteset 5
 ### Input
