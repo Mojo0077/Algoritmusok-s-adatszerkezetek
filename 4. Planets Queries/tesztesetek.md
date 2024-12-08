@@ -170,38 +170,35 @@ Induló bolygó Ugrások száma `8 5`
 
 ## Teszteset 9
 ### Input
-Bolygók száma Lekérdezések szám `5 3`
+Bolygók száma Lekérdezések szám `6 3`
 
-Teleport irányok `2 3 4 5 1`
+Teleport irányok `1 1 2 2 3 5`
 
-Induló bolygó Ugrások száma `1 2`
+Induló bolygó Ugrások száma `4 7`
 
-Induló bolygó Ugrások száma `3 10`
+Induló bolygó Ugrások száma `6 3`
 
-Induló bolygó Ugrások száma `4 1`
+Induló bolygó Ugrások száma `2 22`
 
 ### Output
-Érkezési bolygó száma `3`
+Érkezési bolygó száma `1`
 
-Érkezési bolygó száma `3`
+Érkezési bolygó száma `2`
 
-Érkezési bolygó száma `5`
+Érkezési bolygó száma `1`
 
 ## Teszteset 10
 ### Input
-Bolygók száma Lekérdezések szám `5 3`
+Bolygók száma Lekérdezések szám `33 2`
 
-Teleport irányok `2 3 4 5 1`
+Teleport irányok `3 5 4 11 23 24 33 3 4 5 6 22 3 5 7 9 16 30 28 3 6 18 19 20 1 8 12 13 14 15 22 21 13`
 
-Induló bolygó Ugrások száma `1 2`
+Induló bolygó Ugrások száma `6 45`
 
-Induló bolygó Ugrások száma `3 10`
-
-Induló bolygó Ugrások száma `4 1`
+Induló bolygó Ugrások száma `28 66`
 
 ### Output
 Érkezési bolygó száma `3`
 
-Érkezési bolygó száma `3`
+Érkezési bolygó száma `24`
 
-Érkezési bolygó száma `5`
