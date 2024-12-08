@@ -12,12 +12,12 @@ Használd az alábbi parancsot, hogy belépj a megfelelő mappába:
 ```bash
 cd path/to/1. Factory Machine/
 
-Tedd futtathatóvá a scriptet:
-
+### 3. Tedd futtathatóvá a scriptet:
+```bash
 chmod +x check_tests.sh
 
-Futtasd a scriptet:
-
+### 4. Futtasd a scriptet:
+```bash
 ./check_tests.
 
 A script kiírja minden teszteset eredményét (PASS vagy FAIL), és megmutatja az eltéréseket, ha vannak.
