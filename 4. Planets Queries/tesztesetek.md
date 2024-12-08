@@ -2,7 +2,7 @@
 
 ## Teszteset 1
 ### Input
-`5 3`
+Bolygók száma Lekérdezések szám `5 3`
 
 `2 3 4 5 1`
 
