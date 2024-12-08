@@ -13,11 +13,11 @@ Induló bolygó Ugrások száma `3 10`
 Induló bolygó Ugrások száma `4 1`
 
 ### Output
-`3`
+Érkezési bolygó száma `3`
 
-`3`
+Érkezési bolygó száma `3`
 
-`5`
+Érkezési bolygó száma `5`
 
 ## Teszteset 2
 ### Input
