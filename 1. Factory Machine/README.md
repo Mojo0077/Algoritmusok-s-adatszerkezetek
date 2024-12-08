@@ -9,7 +9,7 @@ Győződj meg róla, hogy telepítve van a PHP, és hogy hozzáférsz a terminá
 
 ### 2. Navigálj a projekt mappába
 Használd az alábbi parancsot, hogy belépj a megfelelő mappába:
-
+bash
 cd path/to/1. Factory Machine/
 
 ### 3. Tedd futtathatóvá a scriptet:
