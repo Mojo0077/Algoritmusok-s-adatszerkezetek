@@ -1,4 +1,4 @@
-# Two Sets II. - Tesztesetek
+# Planet Queries - Tesztesetek
 
 ## Teszteset 1
 ### Input
@@ -19,8 +19,4 @@ Induló bolygó Ugrások száma `4 1`
 
 Érkezési bolygó száma `5`
 
-## Teszteset 2
-### Input
-`9`
-### Output
-`0`
+
